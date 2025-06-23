@@ -1,12 +1,33 @@
-# React + Vite
+# 🎮 Maryam Irshad's Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+_A miniguide for navigating the precarious realms of my software journey._
 
-Currently, two official plugins are available:
+![Main Screen](./src/assets/main.jpg)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🧩 About
 
-## Expanding the ESLint configuration
+This is my personal **React-based portfolio web app**, crafted with a retro 90s **pixel-game design aesthetic** to showcase my **skills, education**, and **projects** in an interactive and stylish way.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Built With
+
+- **React JS**
+- **JavaScript**
+- **Custom CSS** 
+- **Manual routing with `react-router-dom`**
+- **Fully self-designed graphics and layout**
+
+---
+
+## 🚪 App Flow
+
+- **Start Screen** ➝ Click "Start" button
+- **Menu Page** ➝ Choose between `About`, `Education`, `Skills & Projects`
+
+## 🧠 Thought Process
+
+I wanted to build something that’s:
+
+- ✨ Aesthetic (whats more in then retro?)
+- 🎓 Informative (easy to navigate and give you the things you are looking for)
