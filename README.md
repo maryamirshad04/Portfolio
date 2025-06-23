@@ -2,8 +2,6 @@
 
 _A miniguide for navigating the precarious realms of my software journey._
 
-![Main Screen](./src/assets/main.jpg)
-
 ## 🧩 About
 
 This is my personal **React-based portfolio web app**, crafted with a retro 90s **pixel-game design aesthetic** to showcase my **skills, education**, and **projects** in an interactive and stylish way.
